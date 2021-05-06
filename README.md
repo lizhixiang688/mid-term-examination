@@ -6,8 +6,8 @@
 
 * 实现了注册和登录功能，可实现自动登录
 
-<img src="C:\Users\Administrator\Desktop\Screenshot_20210506_142513_com.example.timecube.jpg" alt="Screenshot_20210506_142513_com.example.timecube" style="zoom:1%;" />    如图<img src="C:\Users\Administrator\Desktop\Screenshot_20210506_142513_com.example.timecube.jpg" alt="Screenshot_20210506_142513_com.example.timecube" style="zoom:10%;" /><img src="C:\Users\Administrator\Desktop\Screenshot_20210506_142519_com.example.timecube.jpg" alt="Screenshot_20210506_142519_com.example.timecube" style="zoom:10%;" />
-
+![image](https://github.com/lizhixiang688/mid-term-examination/blob/master/images/Screenshot_20210506_142513_com.example.timecube.jpg)
+![image](https://github.com/lizhixiang688/mid-term-examination/blob/master/images/Screenshot_20210506_142519_com.example.timecube.jpg)
 * 实现保存用户名，下次点开app自动加载用户名
 
 * 点击按钮可添加备忘录，备忘录可设置截止时间，提醒时间
@@ -43,7 +43,7 @@
 
 ### 三、难点和疑惑
 
-* 首先在数据库的选择上我先想了Shareprefence但是发现用它来存储的时候，删除和查询不太方便，然后想的是SQLite数据库，但是SQL语句过于繁琐与复杂，又想了Room，但是刚学不太会用，最后，我发现LitePal才是~~yyds~~ <img src="C:\Users\Administrator\Desktop\FA2678A638BF172E3B3298845E5B732D.gif" alt="FA2678A638BF172E3B3298845E5B732D" style="zoom:20%;" />，只需要配置一点点代码，就可以完美使用LitePal，不仅创建数据库十分简便
+* 首先在数据库的选择上我先想了Shareprefence但是发现用它来存储的时候，删除和查询不太方便，然后想的是SQLite数据库，但是SQL语句过于繁琐与复杂，又想了Room，但是刚学不太会用，最后，我发现LitePal才是~~yyds~~ ，只需要配置一点点代码，就可以完美使用LitePal，不仅创建数据库十分简便
 
   ```java
   if(LitePal.getDatabase()==null){
@@ -79,9 +79,9 @@
 
 ​      说实话，真没啥优点，但是还是要厚着脸皮说几个。。。
 
-- [ ] > 俗话说功能不够，UI来凑，我的UI呢，只好厚着脸皮说还能将就看下去，废话不多说，看图
+  > 俗话说功能不够，UI来凑，我的UI呢，只好厚着脸皮说还能将就看下去，废话不多说，看图
   >
-  > <img src="C:\Users\Administrator\Desktop\D3FBC3967378B07C663C4EF115CD495D.gif" alt="D3FBC3967378B07C663C4EF115CD495D" style="zoom:20%;" />
+  > ![image](https://github.com/lizhixiang688/mid-term-examination/blob/master/images/VIDEO_050615345271549.gif)
 
 #### 不足
 
