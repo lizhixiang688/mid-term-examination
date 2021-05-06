@@ -79,7 +79,7 @@
 
 ​      说实话，真没啥优点，但是还是要厚着脸皮说几个。。。
 
-  > 俗话说功能不够，UI来凑，我的UI呢，只好厚着脸皮说还能将就看下去，废话不多说，看图
+  > 俗话说功能不够，UI来凑。我的UI呢，只好厚着脸皮说还能将就看下去，比如说我的两个Fragment的切换动画还挺不错的，废话不多说，看图
   >
   > ![image](https://github.com/lizhixiang688/mid-term-examination/blob/master/images/VIDEO_050615345271549.gif)
 
