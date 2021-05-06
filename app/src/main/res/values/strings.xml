@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimeCube</string>
+    <string name="text_cover1">时间不在于你拥有多少</string>
+    <string name="text_cover2">而在于你如何使用</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="hint_id">请输入账号</string>
+    <string name="login">登录</string>
+    <string name="go_to_register">没有账号？去注册</string>
+    <string name="register">注册</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
